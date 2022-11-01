@@ -1,5 +1,9 @@
+import org.testng.annotations.Test;
+
 public class kfjjfk {
-    public static void main(String[] args) {
-        System.out.println("kdkfjkdjfkjdknnnnnnnn");
+@Test
+    public void kdfjk(){
+    System.out.println("kdjfkdkfjkdjfkdj");
     }
 }
+
